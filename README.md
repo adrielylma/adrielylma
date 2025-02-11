@@ -1,4 +1,4 @@
-# Adriely Lima ✨
+# Olá! 👋 Sou Adriely Lima ✨
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
