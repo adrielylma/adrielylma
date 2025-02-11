@@ -1,4 +1,13 @@
-## Hi there 👋
+# Adriely Lima 👋
+
+## Estudante de Análise e Desenvolvimento de Sistemas ✨
+
+ <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+ <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+ <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+          
+          
 
 <!--
 **adrielylma/adrielylma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
